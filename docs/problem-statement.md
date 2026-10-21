@@ -1,13 +1,15 @@
 # Problem Statement
 
 ## Who is affected?
-[Users, stakeholders, or businesses]
+Building managers and maintenance staff
 
 ## What exactly is going wrong?
-[The friction, error, or inefficiency]
+Affected by water leaks that are found late, usually only after wet walls, low water pressure, or an unusually high water bill. Locating the leak currently depends on manual inspection, which is slow and may need walls or floors to be opened. 
 
 ## Why does it matter?
-[The impact or cost of the problem]
+This matters because undetected leaks damage property and disrupt water supply.
 
 ## Problem statement (3 to 5 sentences)
-[Combine your three answers above into one short paragraph.]
+Building managers and maintenance staff in setting are affected by water leaks that are found late, usually only after wet walls, low water pressure, or an unusually high water bill. Locating the leak currently depends on manual inspection, which is slow and may need walls or floors to be opened. This matters because undetected leaks damage property and disrupt water supply.
+
+
