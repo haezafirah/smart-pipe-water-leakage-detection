@@ -9,6 +9,8 @@ Building managers and maintenance staff in setting are affected by water leaks t
 - [Problem statement](docs/problem-statement.md)
 - [Requirements](docs/requirements.md)
 - [User stories](docs/user-stories.md)
+- [Sprint log](docs/sprint-log.md)
+- [Specialized technology](docs/specialized-technology.md)
 
 ## Status
 Planning (CSC649, Week 4)
