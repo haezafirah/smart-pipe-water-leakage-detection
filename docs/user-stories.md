@@ -1,6 +1,6 @@
 # User Stories
 
-As a maintenance technician, I want to receive an alert as soon as a possible leak is detected, so that I can repair the pipe before musch water is wasted.
+As a maintenance technician, I want to receive an alert as soon as a possible leak is detected, so that I can repair the pipe before much water is wasted.
 
 **Aceptance criteria**
 1. When a leak is detected, an alert showing the pipe location and time is sent within 30 seconds.
